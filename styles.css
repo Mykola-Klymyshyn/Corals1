@@ -447,7 +447,7 @@ header {
   .testimonial-container {
     display: flex;
     flex-direction: column;
-    width: 350px;
+    /* width: 350px; */
     position: relative;
     justify-content: center;
     text-align: center;
@@ -536,7 +536,7 @@ header {
     color: gold;
     position: absolute;
     bottom: 15px;
-    left: 19%;
+    left: 20%;
   }
   
  
